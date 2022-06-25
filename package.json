@@ -1,0 +1,12 @@
+{
+  "name": "bootcamp-devops-ejercicio1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 Bootcamp DevOps",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "author": "Flavio Coscarella",
+  "license": "ISC"
+}
